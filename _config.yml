@@ -33,4 +33,4 @@ exclude:
   - Gemfile
   - Gemfile.lock
   
-baseurl: /myblog/index.html
+baseurl: /myblog
